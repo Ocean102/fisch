@@ -1,0 +1,7 @@
+{
+  "version": "1.2.5",
+  "keyLength": 125,
+  "charSet": "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789",
+  "domain": "https://ocean.gamer.gd/key/%s",
+  "website": "ocean.gamer.gd"
+}
