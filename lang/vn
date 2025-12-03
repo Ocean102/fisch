@@ -80,5 +80,7 @@ return {
 			[10] = "Ổn",
 			[20] = "Như cức",
 			[30] = "Lag như cức"
-		}
+		},
+
+		sigma = "Để khích lệ việc vô web nhà làm thì bấm "Get Key" r vô trang lấy key của tui :) Mỗi người có code riêng nên ko chia sẻ"
 	}
