@@ -1,0 +1,84 @@
+return {
+		tabs = {
+			main: "Chính",
+			fisch: "Fisch",
+			teleport: "Pháp sư",
+			universal: "Script chung",
+			info: "Thông tin"
+		},
+
+		sections = {
+			farming = "Farm câu cá",
+			player = "Người chơi",
+			char = "Nhân vật",
+
+			inven = "Túi đồ",
+			sell_appraise = "Bán / kiểm định",
+			game = "Game",
+			water = "Tuỳ chỉnh nước",
+
+			special_tele = "Chỗ đặc biệt",
+			farm_tele = "Chỗ farn",
+		},
+
+		options = {
+			equip = "Auto trang bị cần câu",
+			cast = "Tự động thả câu",
+			shake = "Spam Shake",
+			reel = "Skip kéo cá",
+
+			afk = "Anti AFK",
+			freeze = "Đóng băng",
+			level = "Lên level (mở khu bastinary)",
+			
+			fly = "Bay",
+			clip = "Xuyên tường",
+			tps = "Tốc độ TP Walk",
+			flys = "Tốc độ bay",
+
+			crate = "Auto mở hộp",
+			cage = "Auto lồng cua",
+			openCage = "Auto mở lồng cua",
+
+			sell = "Bán cá",
+			sellall = "Bán hết sạch cá",
+			appraise = "Kiểm định cá",
+
+			skip = "Skip kéo cá",
+			reset = "Đột quỵ",
+			rejoin = "Vô lại game",
+			derender = "Derender",
+
+			antioxy = "Anti ngộp thở",
+			water = "Màu nước",
+			transparency = "Độ trong suốt",
+			reflectance = "Độ phản chiều",
+
+			normaltp = "Chỗ bình thường",
+			totem = "Chỗ totem",
+			player = "Người chơi",
+			enchant = "Chỗ đập đá",
+
+			bestxp = "📈 XP",
+			bestmoney = "💲 Tiền",
+
+			totalfish = "Cá bắt được",
+			time = "Thời gian AFK",
+			leveled = "Level lên được",
+
+			info = "Thông tin script",
+			ver = "Phiên bản",
+			coder = "Viết code",
+			wifi = "Tốc độ WIFI",
+			forceReset = "Buộc reset data"
+		},
+
+		speed = {
+			[1] = "Siêu sigma",
+			[2] = "Siêu nhanh",
+			[5] = "Nhanh",
+			[10] = "Ổn",
+			[20] = "Như cức",
+			[30] = "Lag như cức"
+		}
+	}
