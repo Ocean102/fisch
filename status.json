@@ -2,7 +2,6 @@
   "Fisch": {
     "img": "https://static.wikitide.net/fischwiki/thumb/d/d6/FischWikiLogo.webp/133px-FischWikiLogo.webp.png",
     "icon": "FishSymbol",
-    "status": "working",
-    "color": "green"
+    "status": false
   }
 }
