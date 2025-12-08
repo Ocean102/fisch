@@ -1,0 +1,10 @@
+local list = {}
+
+local function u(s) return s:gsub("([a-z0-9])(%u)", "%1 %2") end
+
+for _,v in ipairs(workspace.world.spawns:GetChildren()) do
+    local sp = v:FindFirstChild("spawn")
+    if sp then list[u(v.Name)] = sp end
+end
+
+return list
